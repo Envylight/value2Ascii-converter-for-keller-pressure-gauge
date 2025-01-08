@@ -1,0 +1,10 @@
+/home/pi/Documents/KellerProtocolOneFile/bin/Debug/netcoreapp2.1/KellerProtocolOneFile.deps.json
+/home/pi/Documents/KellerProtocolOneFile/bin/Debug/netcoreapp2.1/KellerProtocolOneFile.runtimeconfig.json
+/home/pi/Documents/KellerProtocolOneFile/bin/Debug/netcoreapp2.1/KellerProtocolOneFile.runtimeconfig.dev.json
+/home/pi/Documents/KellerProtocolOneFile/bin/Debug/netcoreapp2.1/KellerProtocolOneFile.dll
+/home/pi/Documents/KellerProtocolOneFile/bin/Debug/netcoreapp2.1/KellerProtocolOneFile.pdb
+/home/pi/Documents/KellerProtocolOneFile/obj/Debug/netcoreapp2.1/KellerProtocolOneFile.csprojAssemblyReference.cache
+/home/pi/Documents/KellerProtocolOneFile/obj/Debug/netcoreapp2.1/KellerProtocolOneFile.AssemblyInfoInputs.cache
+/home/pi/Documents/KellerProtocolOneFile/obj/Debug/netcoreapp2.1/KellerProtocolOneFile.AssemblyInfo.cs
+/home/pi/Documents/KellerProtocolOneFile/obj/Debug/netcoreapp2.1/KellerProtocolOneFile.dll
+/home/pi/Documents/KellerProtocolOneFile/obj/Debug/netcoreapp2.1/KellerProtocolOneFile.pdb
